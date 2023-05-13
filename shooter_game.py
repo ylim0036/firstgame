@@ -27,7 +27,6 @@ img_ast = "asteroid.png"
 score = 0
 lost = 0
 max_lost = 3
-life = 3
 
 #CLASSES
 class GameSprite(sprite.Sprite):
