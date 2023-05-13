@@ -8,6 +8,9 @@ mixer.music.load("space.ogg")
 mixer.music.play()
 fire_sound = mixer.Sound("fire.ogg")
 
+#HELLO WORLD IM FREEE OR SOMETHING
+print("IM FREE")
+
 #fonts 
 font.init()
 font2 = font.SysFont("Arial", 36)
